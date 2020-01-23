@@ -11,7 +11,7 @@ import FormLabel from "@material-ui/core/FormLabel";
 
 const styles = theme => ({
   root: {
-    fontFamily: "Arial"
+    fontFamily: "Arial" 
   }
 });
 
